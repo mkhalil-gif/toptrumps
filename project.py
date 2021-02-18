@@ -1,4 +1,6 @@
 
+# Pokemon Toptrumps
+
 # 1. Generate a random number between 1 and 151 to use as the Pokemon ID number
 import random
 
